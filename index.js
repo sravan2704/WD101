@@ -43,9 +43,9 @@ const display=()=>{
     const table=`<table class="center"><tr>
     <th >Name</th>
     <th >Email</th>
-    <th >password</th>
-    <th >dob</th>
-    <th >accepted terms</th>
+    <th >Password</th>
+    <th >Dob</th>
+    <th >Accepted terms?</th>
 </tr>${tableentries}</table> `;
   
 let details=document.getElementById("entries");
